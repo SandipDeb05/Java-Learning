@@ -2,10 +2,10 @@ package Methods;
 
 public class PassByValue {
     public static void main(String[] args){
-//        int c=34;
-//        int d = 12;
-//        swap(c,d);
-//        System.out.println(c+" "+ d ); // pass by value
+        int a=34;
+        int b = 12;
+        swap(a,b);
+        System.out.println(a+" "+ b ); // pass by value
 
 
         Dog c = new Dog();
