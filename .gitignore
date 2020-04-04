@@ -1,2 +1,3 @@
 ## ignoring java production files
 out
+.idea
