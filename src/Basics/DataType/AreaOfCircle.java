@@ -1,4 +1,4 @@
-package Basics.dataTypes;
+package Basics.DataType;
 
 public class AreaOfCircle {
     public static void main(String[] args){
